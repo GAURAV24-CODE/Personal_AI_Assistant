@@ -1,6 +1,3 @@
-GITHUB REDME INTRO 
-
-
 # 🤖 GKX1 — Personal AI Assistant
 
 <p align="center">
