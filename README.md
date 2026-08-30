@@ -1,4 +1,4 @@
-# GKX1 - AI Assistant for LinkedIn Posts
+# GKX1 - AI Assistant 
 
 A Python-based AI assistant with browser automation capabilities, designed to power LinkedIn content and automation workflows.
 
