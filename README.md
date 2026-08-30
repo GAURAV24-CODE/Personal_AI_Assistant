@@ -1,11 +1,11 @@
-# MyJarvis - Personal AI Assistant
+# GKX1 - AI Assistant for LinkedIn Posts
 
-A Python-based personal AI assistant with browser automation capabilities.
+A Python-based AI assistant with browser automation capabilities, designed to power LinkedIn content and automation workflows.
 
 ## Project Structure
 
 ```
-MyJarvis/
+GKX1/
 ├── core/
 │   ├── __init__.py
 │   └── router.py
@@ -41,10 +41,19 @@ MyJarvis/
 
 ## Features
 
-- Browser automation tools
-- Core routing system
+- Browser automation for web interactions
+- LinkedIn integration & automation
+- AI-powered content routing system
 - Test modules for validation
+- Customizable workflows
+
+## Use Cases
+
+- Automate LinkedIn post scheduling
+- Generate and publish content
+- Social media workflow automation
+- Browser-based task automation
 
 ## Author
 
-Created by GAURAV24-CODE
+Created by GAURAV24-CODE for GKX1
