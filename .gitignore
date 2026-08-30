@@ -41,3 +41,8 @@ Thumbs.db
 memory.json
 *.pyc
 .pytest_cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
