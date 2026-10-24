@@ -1,7 +1,7 @@
 # 🤖 GKX1 — Personal AI Assistant
 
 <p align="center">
-  <b>Your Personal AI Assistant for Intelligent Automation</b>
+  <b>Your Person AI Assistant for Intelligent Automation</b>
 </p>
 
 <p align="center">
