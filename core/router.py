@@ -74,7 +74,7 @@ def detect_intent(user_input):
 
     # ==============================
     # STUDY / LEARNING
-    # ==============================
+    # =======
 
     study_words = [
         "study",
