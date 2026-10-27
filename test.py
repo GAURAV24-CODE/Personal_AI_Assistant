@@ -6,7 +6,7 @@ tests = [
     "Open YouTube",
     "Search Python loops",
     "Play lo-fi music",
-    "Teach me Python",
+    "Teach  Python",
     "Remind me t study at 7 PM"
 ]
 
