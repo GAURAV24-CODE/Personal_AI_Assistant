@@ -13,7 +13,7 @@
 ## 🚀 About GKX1
 
 **GKX1** is a Python-based personal AI assistant designed to understand
-natural-language commands, identify user intent, select appropriate tools,
+natural-language commands, identify user intent, appropriate tools,
 and perform useful tasks through automation.
 
 The goal is not simply to build another chatbot.
@@ -27,7 +27,7 @@ and continuously become more useful.** 🧠⚡
 
 | Feature | Status |
 |---|---|
-| 🧠 Natural Language Understanding | ✅ |
+| 🧠 Natural Language Understanding | ✅ 
 | 🎯 Intent Detection | ✅ |
 | 🔀 Intelligent Tool Routing | ✅ |
 | 🌐 Browser Automation | ✅ |
@@ -50,7 +50,7 @@ and continuously become more useful.** 🧠⚡
              👤 USER
                 │
                 ▼
-        💬 Natural Language
+        💬 Natural Languag
                 │
                 ▼
         🧠 Intent Detection
